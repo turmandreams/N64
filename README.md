@@ -1,7 +1,8 @@
+Información
+-----------
 
+Carpeta de proyectos relacionados con la N64.
 
-
-Actualmente los proyectos realizados son :
 
 
 ESP32-N64Controller
@@ -20,4 +21,4 @@ En este proyecto se ha programado un CH32V003F4P6 para que pueda sustituir un BU
 
 
 
-P.D.: En esta carpeta voy a ir poniendo todos los proyectos relacionados con la N64.
+P.D.: En esta 
