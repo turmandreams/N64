@@ -20,5 +20,3 @@ En este proyecto se ha programado un CH32V003F4P6 para que pueda sustituir un BU
 
 
 
-
-P.D.: En esta 
