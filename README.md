@@ -1,7 +1,7 @@
 Información
 -----------
 
-Carpeta de proyectos relacionados con la N64.
+Carpeta de proyectos relacionados con N64.
 
 
 
