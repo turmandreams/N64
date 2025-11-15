@@ -46,7 +46,14 @@ Emulando BU9850 - Parte 5 { www.turmandreams.es }
 [![Alt text](https://img.youtube.com/vi/KP-x0wVWudY/0.jpg)](https://www.youtube.com/shorts/KP-x0wVWudY))
 
 
+Emulando BU9850 - Parte 6 { www.turmandreams.es }
+-------------------------------------------------
+[![Alt text](https://img.youtube.com/vi/JwlPRjvlnA4/0.jpg)](https://www.youtube.com/shorts/JwlPRjvlnA4))
 
+
+Emulando BU9850 - Parte 6 { www.turmandreams.es }
+-------------------------------------------------
+[![Alt text](https://img.youtube.com/vi/JwlPRjvlnA4/0.jpg)](https://www.youtube.com/shorts/JwlPRjvlnA4))
 
 
 
